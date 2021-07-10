@@ -1,2 +1,2 @@
 # Performance-Analysis-of-Massive-MIMO-OFDM-System
-Evaluate the performance of ZF ( Zero Forcing ) and MMSE ( Minimum Mean Square Error ) detectors with  (Nt×Nr),  (20×30)  and  (20×50)  respectively  antennas  array,  for  various  modulations  techniques  16-QAM, 64-QAM, and 128-QAM, and for various OFDM sub-carriers 64, 256, 512 and 1024.  The performance is determined in terms of Bit Error Rate (BER).
+Evaluated the performance of ZF ( Zero Forcing ) and MMSE ( Minimum Mean Square Error ) detectors with  (Nt×Nr),  (20×30)  and  (20×50)  respectively  antennas  array,  for  various  modulations  techniques  16-QAM, 64-QAM, and 128-QAM, and for various OFDM sub-carriers 64, 256, 512 and 1024.  The performance is determined in terms of Bit Error Rate (BER).
